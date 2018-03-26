@@ -1,8 +1,7 @@
 .name {
-    font-weight: 700;
+    font-weight: 900;
 }
 
-.title,
-.company {
-    font-weight: 100;
+.title {
+    font-weight: 700;
 }

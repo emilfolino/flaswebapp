@@ -1,0 +1,5 @@
+.card {
+    box-shadow: 0 0.2rem 0.3rem 0 hsla(0, 0%, 0%, 0.2);
+    border: none;
+    border-left: 0.3rem solid #ff4136;
+}

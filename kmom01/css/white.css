@@ -1,3 +1,13 @@
 .card {
     padding: 1rem;
 }
+
+.title,
+.email {
+    margin-bottom: 0;
+}
+
+.company,
+.phone {
+    margin-top: 0;
+}
